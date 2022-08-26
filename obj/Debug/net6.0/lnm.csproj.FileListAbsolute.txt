@@ -1,0 +1,15 @@
+C:\Users\omero\OneDrive\Desktop\Pratikler\lnm\bin\Debug\net6.0\lnm.exe
+C:\Users\omero\OneDrive\Desktop\Pratikler\lnm\bin\Debug\net6.0\lnm.deps.json
+C:\Users\omero\OneDrive\Desktop\Pratikler\lnm\bin\Debug\net6.0\lnm.runtimeconfig.json
+C:\Users\omero\OneDrive\Desktop\Pratikler\lnm\bin\Debug\net6.0\lnm.dll
+C:\Users\omero\OneDrive\Desktop\Pratikler\lnm\bin\Debug\net6.0\lnm.pdb
+C:\Users\omero\OneDrive\Desktop\Pratikler\lnm\obj\Debug\net6.0\lnm.csproj.AssemblyReference.cache
+C:\Users\omero\OneDrive\Desktop\Pratikler\lnm\obj\Debug\net6.0\lnm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omero\OneDrive\Desktop\Pratikler\lnm\obj\Debug\net6.0\lnm.AssemblyInfoInputs.cache
+C:\Users\omero\OneDrive\Desktop\Pratikler\lnm\obj\Debug\net6.0\lnm.AssemblyInfo.cs
+C:\Users\omero\OneDrive\Desktop\Pratikler\lnm\obj\Debug\net6.0\lnm.csproj.CoreCompileInputs.cache
+C:\Users\omero\OneDrive\Desktop\Pratikler\lnm\obj\Debug\net6.0\lnm.dll
+C:\Users\omero\OneDrive\Desktop\Pratikler\lnm\obj\Debug\net6.0\refint\lnm.dll
+C:\Users\omero\OneDrive\Desktop\Pratikler\lnm\obj\Debug\net6.0\lnm.pdb
+C:\Users\omero\OneDrive\Desktop\Pratikler\lnm\obj\Debug\net6.0\lnm.genruntimeconfig.cache
+C:\Users\omero\OneDrive\Desktop\Pratikler\lnm\obj\Debug\net6.0\ref\lnm.dll
